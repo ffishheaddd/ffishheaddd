@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ffishheaddd
 - 👀 I’m interested in using data to inform wildlife management and conservation biology efforts
-- 🌱 I’m currently completing my M.S. in Enviornmental Studies
-- 💞️ I’m looking to collaborate on anythign that will challenge my R coding and stats skills
+- 🌱 I’m currently completing my M.S. in Environmental Studies
+- 💞️ I’m looking to collaborate on anything that will challenge my R coding and stats skills
 - 📫 Reach me via email
 - 😄 Pronouns: She/her/hers
 
